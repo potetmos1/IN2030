@@ -10,7 +10,7 @@ Grovt er oppgaven delt inn i 4 deler:
 
 For at programmet kompilere programmet og lage jar filen trenger man å ha installert ant kommandoen på pcen sin, en guide til hvordan man gjør dette ligger [her](https://www.uio.no/studier/emner/matnat/ifi/IN2030/h21/ressurser/installer-ant.pdf).
 Når du har en kompilert jar fil er det bare å kjøre en asp (eller noen Python) fil med
-'''java -jar x.asp'''
+```java -jar x.asp```
 
 For en gjennomgang av prosjektet kan man lese [kompeniet](https://www.uio.no/studier/emner/matnat/ifi/IN2030/h21/nedlastinger/kompendium.pdf)
 
