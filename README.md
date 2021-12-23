@@ -1,6 +1,7 @@
 # IN2030
 Prosjektoppgave i faget IN2030 ved UiO.
 Hensiktet med faget er å lage en interpret for ASP som er en minimalisert versjon av Python.
+
 Grovt er oppgaven delt inn i 4 deler:
 1. Scanning - lese inn asp filen
 2. Parsing - forstå hva man har scannet inn
