@@ -7,6 +7,6 @@ Grovt er oppgaven delt inn i 4 deler:
 3. Evaluering av uttrykk - lage logiske uttrykk fra parsing og evaluere de
 4. Evaluering av setninger og funksjoner - utførelse og evaluering av setninger, funksjoner og fulle programmer
 
-For en gjennomgang av prosjektet kan man lese [kompeniet](https://www.uio.no/studier/emner/matnat/ifi/IN2030/h21/nedlastinger)
+For en gjennomgang av prosjektet kan man lese [kompeniet](https://www.uio.no/studier/emner/matnat/ifi/IN2030/h21/nedlastinger/kompendium.pdf)
 
 Les mer om emnet og faget [her](https://www.uio.no/studier/emner/matnat/ifi/IN2030/)  
